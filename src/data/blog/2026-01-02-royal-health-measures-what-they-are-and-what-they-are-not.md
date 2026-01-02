@@ -5,6 +5,11 @@ title: "Royal Health Measures: What They Are — and What They Are Not"
 slug: Royal-Health-Measures
 featured: false
 draft: false
+description: In a world filled with health trends, quick fixes, and conflicting
+  advice, it has become increasingly difficult to distinguish true health
+  practices from misleading or ineffective ones. At Royal Health, we define
+  wellness through a higher standard—one based on science, balance, and
+  long-term well-being.
 ---
 * * *
 
