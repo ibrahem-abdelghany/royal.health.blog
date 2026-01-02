@@ -2,7 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: About
 ---
-## About [Dr. Ibrahem Abdelghany](abdelghany.com)
+## About [Dr. Ibrahem Abdelghany](https://abdelghany.com)
 
 Welcome, and thank you for being here.
 
