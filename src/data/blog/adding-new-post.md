@@ -119,13 +119,3 @@ Royal health is not about luxury—it’s about **legacy**. It’s the understan
 After all, the most powerful crown you can wear is good health.
 
 * * *
-
-If you’d like, I can:
-
-*   Adjust the tone (medical, luxury, lifestyle, corporate)
-    
-*   Localize it for a specific country or audience
-    
-*   Optimize it for SEO
-    
-*   Shorten it for social media or a website homepage
