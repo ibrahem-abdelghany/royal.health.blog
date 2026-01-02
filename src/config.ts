@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "#",
+    url: "https://app.pagescms.org/ibrahem-abdelghany/royal.health.blog/main/collection/posts",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
