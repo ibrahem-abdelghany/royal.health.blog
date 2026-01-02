@@ -22,7 +22,7 @@ export const SOCIALS: Social[] = [
     href: "",
     linkTitle: `${SITE.title} on GitHub`,
     icon: IconGitHub,
-  },*/
+  },
   {
     name: "X",
     href: "",
@@ -34,7 +34,7 @@ export const SOCIALS: Social[] = [
     href: "/",
     linkTitle: `${SITE.title} on LinkedIn`,
     icon: IconLinkedin,
-  },
+  },*/
   {
     name: "Mail",
     href: "mailto:royal.health@abdelghany.com",
