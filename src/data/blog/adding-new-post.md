@@ -1,249 +1,133 @@
 ---
-author: Sat Naing
-pubDatetime: 2022-09-23T15:22:00Z
-modDatetime: 2025-06-13T16:52:45.934Z
-title: Adding new posts in AstroPaper theme
-slug: adding-new-posts-in-astropaper-theme
+author: Dr. Ibrahem Abdelghany
+title: Royal Health
+slug: Royal Health
 featured: true
 draft: false
-tags:
-  - docs
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaperr
-  theme.
+description: "When we think of royalty, images of elegance, longevity, and
+  refined living often come to mind. But behind the crowns and palaces, royal
+  families have long understood an important truth: health is the greatest form
+  of wealth. Today, “royal health” is not about privilege—it’s about adopting
+  timeless habits that promote physical vitality, mental balance, and graceful
+  aging."
 ---
+Here’s a polished, engaging blog article you can use or adapt:
 
-Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
+* * *
 
-<figure>
-  <img
-    src="https://images.pexels.com/photos/159618/still-life-school-retro-ink-159618.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-    alt="Free Classic wooden desk with writing materials, vintage clock, and a leather bag. Stock Photo"
-  />
-    <figcaption class="text-center">
-    Photo by <a href="https://www.pexels.com/photo/brown-wooden-desk-159618/">Pixabay</a>
-  </figcaption>
-</figure>
+## Royal Health: Living Like Modern Royalty
 
-## Table of contents
+When we think of royalty, images of elegance, longevity, and refined living often come to mind. But behind the crowns and palaces, royal families have long understood an important truth: **health is the greatest form of wealth**. Today, “royal health” is not about privilege—it’s about adopting timeless habits that promote physical vitality, mental balance, and graceful aging.
 
-## Creating a Blog Post
+### The Philosophy of Royal Health
 
-To write a new blog post, create a markdown file inside the `src/data/blog/` directory.
+Royal health is rooted in **prevention, balance, and consistency**. Historically, kings and queens relied on physicians, herbalists, and structured routines to maintain strength and clarity of mind. In modern times, this philosophy aligns perfectly with evidence-based wellness: regular movement, mindful nutrition, mental resilience, and preventive care.
 
-> Prior to AstroPaper v5.1.0, all blog posts had to be in `src/data/blog/`, meaning you couldn't organize them into subdirectories.
+Royal health is not extreme. It avoids fads and shortcuts, favoring sustainable habits that support long-term well-being.
 
-Starting from AstroPaper v5.1.0, you can now organize blog posts into subdirectories, making it easier to manage your content.
+### Nutrition Fit for a Palace
 
-For example, if you want to group posts under `2025`, you can place them in `src/data/blog/2025/`. This also affects the post URL, so `src/data/blog/2025/example-post.md` will be available at `/posts/2025/example-post`.
+One of the cornerstones of royal health is **clean, intentional eating**. Modern royal households are known to prioritize:
 
-If you don’t want subdirectories to affect the post URL, just prefix the folder name with an underscore `_`.
+*   Fresh, seasonal ingredients
+    
+*   Whole foods over processed meals
+    
+*   Balanced portions rather than excess
+    
+*   Adequate hydration throughout the day
+    
 
-```bash
-# Example: blog post structure and URLs
-src/data/blog/very-first-post.md          -> mysite.com/posts/very-first-post
-src/data/blog/2025/example-post.md        -> mysite.com/posts/2025/example-post
-src/data/blog/_2026/another-post.md       -> mysite.com/posts/another-post
-src/data/blog/docs/_legacy/how-to.md      -> mysite.com/posts/docs/how-to
-src/data/blog/Example Dir/Dummy Post.md   -> mysite.com/posts/example-dir/dummy-post
-```
+Meals are often simple yet nutrient-dense—lean proteins, vegetables, fruits, whole grains, and healthy fats. The focus is nourishment, not indulgence. This approach supports digestion, energy levels, and immune strength.
 
-> 💡 Tip: You can override a blog post’s slug in the frontmatter as well. See the next section for more details.
+**Royal lesson:** Eat to fuel your body, not to overwhelm it.
 
-If the subdirectory URL doesn’t appear in the build output, remove node_modules, reinstall packages, and then rebuild.
+### Movement with Purpose
 
-## Frontmatter
+Royal health embraces **daily movement**, not punishment through overtraining. Walking has historically been a royal favorite—whether through palace gardens or countryside estates. Today, this translates into:
 
-Frontmatter is the main place to store some important information about the blog post (article). Frontmatter lies at the top of the article and is written in YAML format. Read more about frontmatter and its usage in [astro documentation](https://docs.astro.build/en/guides/markdown-content/).
+*   Daily walks or light cardio
+    
+*   Strength training to maintain muscle and bone health
+    
+*   Flexibility and posture-focused exercises
+    
 
-Here is the list of frontmatter property for each post.
+The goal is longevity and mobility, not short-term aesthetics.
 
-| Property           | Description                                                                                                                           | Remark                                         |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| **_title_**        | Title of the post. (h1)                                                                                                               | required<sup>\*</sup>                          |
-| **_description_**  | Description of the post. Used in post excerpt and site description of the post.                                                       | required<sup>\*</sup>                          |
-| **_pubDatetime_**  | Published datetime in ISO 8601 format.                                                                                                | required<sup>\*</sup>                          |
-| **_modDatetime_**  | Modified datetime in ISO 8601 format. (only add this property when a blog post is modified)                                           | optional                                       |
-| **_author_**       | Author of the post.                                                                                                                   | default = SITE.author                          |
-| **_slug_**         | Slug for the post. This field is optional.                                                                                            | default = slugified file name                  |
-| **_featured_**     | Whether or not display this post in featured section of home page                                                                     | default = false                                |
-| **_draft_**        | Mark this post 'unpublished'.                                                                                                         | default = false                                |
-| **_tags_**         | Related keywords for this post. Written in array yaml format.                                                                         | default = others                               |
-| **_ogImage_**      | OG image of the post. Useful for social media sharing and SEO. This can be a remote URL or an image path relative to current folder.  | default = `SITE.ogImage` or generated OG image |
-| **_canonicalURL_** | Canonical URL (absolute), in case the article already exists on other source.                                                         | default = `Astro.site` + `Astro.url.pathname`  |
-| **_hideEditPost_** | Hide editPost button under blog title. This applies only to the current blog post.                                                    | default = false                                |
-| **_timezone_**     | Specify a timezone in IANA format for the current blog post. This will override the `SITE.timezone` config for the current blog post. | default = `SITE.timezone`                      |
+**Royal lesson:** Move every day, but move wisely.
 
-> Tip! You can get ISO 8601 datetime by running `new Date().toISOString()` in the console. Make sure you remove quotes though.
+### Mental Health and Emotional Balance
 
-Only `title`, `description` and `pubDatetime` fields in frontmatter must be specified.
+True royalty understands that mental clarity is as important as physical strength. Modern royal health places great importance on:
 
-Title and description (excerpt) are important for search engine optimization (SEO) and thus AstroPaper encourages to include these in blog posts.
+*   Structured routines
+    
+*   Adequate sleep
+    
+*   Time for reflection and solitude
+    
+*   Stress management
+    
 
-`slug` is the unique identifier of the url. Thus, `slug` must be unique and different from other posts. The whitespace of `slug` should to be separated with `-` or `_` but `-` is recommended. Slug is automatically generated using the blog post file name. However, you can define your `slug` as a frontmatter in your blog post.
-
-For example, if the blog file name is `adding-new-post.md` and you don't specify the slug in your frontmatter, Astro will automatically create a slug for the blog post using the file name. Thus, the slug will be `adding-new-post`. But if you specify the `slug` in the frontmatter, this will override the default slug. You can read more about this in [Astro Docs](https://docs.astro.build/en/guides/content-collections/#defining-custom-slugs).
-
-If you omit `tags` in a blog post (in other words, if no tag is specified), the default tag `others` will be used as a tag for that post. You can set the default tag in the `content.config.ts` file.
-
-```ts file="src/content.config.ts"
-export const blogSchema = z.object({
-  // ...
-  draft: z.boolean().optional(),
-  // [!code highlight:1]
-  tags: z.array(z.string()).default(["others"]), // replace "others" with whatever you want
-  // ...
-});
-```
+Mindfulness, prayer, meditation, or quiet thinking time allows the mind to reset. Emotional regulation and calm decision-making are hallmarks of royal leadership—and essential tools for modern life.
 
-### Sample Frontmatter
+**Royal lesson:** A calm mind is a powerful asset.
 
-Here is the sample frontmatter for a post.
+### Preventive Care: The Royal Advantage
 
-```yaml file="src/data/blog/sample-post.md"
----
-title: The title of the post
-author: your name
-pubDatetime: 2022-09-21T05:17:19Z
-slug: the-title-of-the-post
-featured: true
-draft: false
-tags:
-  - some
-  - example
-  - tags
-ogImage: ../../assets/images/example.png # src/assets/images/example.png
-# ogImage: "https://example.org/remote-image.png" # remote URL
-description: This is the example description of the example post.
-canonicalURL: https://example.org/my-article-was-already-posted-here
----
-```
+Royals are known for their emphasis on **preventive medicine**. Regular health checkups, early screenings, and proactive care help catch issues before they become serious. This approach reduces long-term health risks and supports graceful aging.
 
-## Adding table of contents
+For everyone, royal health means:
 
-By default, a post (article) does not include any table of contents (toc). To include toc, you have to specify it in a specific way.
+*   Listening to your body
+    
+*   Not ignoring early symptoms
+    
+*   Prioritizing routine medical care
+    
 
-Write `Table of contents` in h2 format (## in markdown) and place it where you want it to be appeared on the post.
+**Royal lesson:** Prevention is more powerful than treatment.
 
-For instance, if you want to place your table of contents just under the intro paragraph (like I usually do), you can do that in the following way.
+### Sleep, Recovery, and Rhythm
 
-<!-- prettier-ignore-start -->
-```md
----
-# frontmatter
----
+Quality sleep is non-negotiable in royal health. Structured days and consistent sleep schedules help regulate hormones, improve focus, and strengthen immunity. Recovery is seen as productive—not lazy.
 
-Here are some recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
+Late nights, irregular routines, and constant stimulation are minimized in favor of rhythm and rest.
 
-<!-- [!code ++] -->
-## Table of contents
+**Royal lesson:** Rest is part of responsibility.
 
-<!-- the rest of the post -->
-```
-<!-- prettier-ignore-end -->
+### Royal Health in Modern Life
 
-## Headings
+You don’t need a palace to live royally. Royal health is about **self-respect**, discipline, and intentional living. It’s choosing habits today that honor your future self.
 
-There's one thing to note about headings. The AstroPaper blog posts use title (title in the frontmatter) as the main heading of the post. Therefore, the rest of the heading in the post should be using h2 \~ h6.
+To start living with royal health:
 
-This rule is not mandatory, but highly recommended for visual, accessibility and SEO purposes.
+1.  Simplify your diet
+    
+2.  Walk daily
+    
+3.  Protect your mental space
+    
+4.  Sleep consistently
+    
+5.  Invest in preventive care
+    
 
-## Syntax Highlighting
+### Final Thoughts
 
-AstroPaper uses [Shiki](https://shiki.style/) as the default syntax highlighting. Starting from AstroPaper v5.4, [@shikijs/transformers](https://shiki.style/packages/transformers) is used to enhance better fenced code blocks. If you don't want to use it, you can simply remove it like this
+Royal health is not about luxury—it’s about **legacy**. It’s the understanding that how you treat your body and mind today shapes the quality of your life tomorrow. When you prioritize health, you rule your life with wisdom, balance, and strength.
 
-```bash
-pnpm remove @shikijs/transformers
-```
+After all, the most powerful crown you can wear is good health.
 
-```js file="astro.config.ts"
-// ...
-// [!code --:5]
-import {
-  transformerNotationDiff,
-  transformerNotationHighlight,
-  transformerNotationWordHighlight,
-} from "@shikijs/transformers";
+* * *
 
-export default defineConfig({
-  // ...
-  markdown: {
-    remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
-    shikiConfig: {
-      // For more themes, visit https://shiki.style/themes
-      themes: { light: "min-light", dark: "night-owl" },
-      defaultColor: false,
-      wrap: false,
-      transformers: [
-        transformerFileName(),
-      // [!code --:3]
-        transformerNotationHighlight(),
-        transformerNotationWordHighlight(),
-        transformerNotationDiff({ matchAlgorithm: "v3" }),
-      ],
-    },
-  },
-  // ...
-}
-```
+If you’d like, I can:
 
-## Storing Images for Blog Content
-
-Here are two methods for storing images and displaying them inside a markdown file.
-
-> Note! If it's a requirement to style optimized images in markdown you should [use MDX](https://docs.astro.build/en/guides/images/#images-in-mdx-files).
-
-### Inside `src/assets/` directory (recommended)
-
-You can store images inside `src/assets/` directory. These images will be automatically optimized by Astro through [Image Service API](https://docs.astro.build/en/reference/image-service-reference/).
-
-You can use relative path or alias path (`@/assets/`) to serve these images.
-
-Example: Suppose you want to display `example.jpg` whose path is `/src/assets/images/example.jpg`.
-
-```md
-![something](@/assets/images/example.jpg)
-
-<!-- OR -->
-
-![something](../../assets/images/example.jpg)
-
-<!-- Using img tag or Image component won't work ❌ -->
-<img src="@/assets/images/example.jpg" alt="something">
-<!-- ^^ This is wrong -->
-```
-
-> Technically, you can store images inside any directory under `src`. In here, `src/assets` is just a recommendation.
-
-### Inside `public` directory
-
-You can store images inside the `public` directory. Keep in mind that images stored in the `public` directory remain untouched by Astro, meaning they will be unoptimized and you need to handle image optimization by yourself.
-
-For these images, you should use an absolute path; and these images can be displayed using [markdown annotation](https://www.markdownguide.org/basic-syntax/#images-1) or [HTML img tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img).
-
-Example: Assume `example.jpg` is located at `/public/assets/images/example.jpg`.
-
-```md
-![something](/assets/images/example.jpg)
-
-<!-- OR -->
-
-<img src="/assets/images/example.jpg" alt="something">
-```
-
-## Bonus
-
-### Image compression
-
-When you put images in the blog post (especially for images under `public` directory), it is recommended that the image is compressed. This will affect the overall performance of the website.
-
-My recommendation for image compression sites.
-
-- [TinyPng](https://tinypng.com/)
-- [TinyJPG](https://tinyjpg.com/)
-
-### OG Image
-
-The default OG image will be placed if a post does not specify the OG image. Though not required, OG image related to the post should be specify in the frontmatter. The recommended size for OG image is **_1200 X 640_** px.
-
-> Since AstroPaper v1.4.0, OG images will be generated automatically if not specified. Check out [the announcement](https://astro-paper.pages.dev/posts/dynamic-og-image-generation-in-astropaper-blog-posts/).
+*   Adjust the tone (medical, luxury, lifestyle, corporate)
+    
+*   Localize it for a specific country or audience
+    
+*   Optimize it for SEO
+    
+*   Shorten it for social media or a website homepage
