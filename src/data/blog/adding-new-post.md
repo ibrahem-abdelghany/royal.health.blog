@@ -3,7 +3,7 @@ author: Dr. Ibrahem Abdelghany
 pubDatetime: 2026-01-02
 modDatetime: 2026-01-02
 title: Royal Health
-slug: Royal Health
+slug: Royal-Health
 featured: true
 draft: false
 description: "When we think of royalty, images of elegance, longevity, and
