@@ -3,7 +3,7 @@ pubDatetime: 2026-01-01
 modDatetime: 2026-01-01
 title: Royal Fruits
 ogImage: Royal Fruits
-slug: Royal Fruits
+slug: Royal-Fruits
 featured: false
 draft: false
 description: Throughout history, fruits have been symbols of vitality,
