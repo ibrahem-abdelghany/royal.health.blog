@@ -13,10 +13,6 @@ description: "When we think of royalty, images of elegance, longevity, and
   timeless habits that promote physical vitality, mental balance, and graceful
   aging."
 ---
-Here’s a polished, engaging blog article you can use or adapt:
-
-* * *
-
 ## Royal Health: Living Like Modern Royalty
 
 When we think of royalty, images of elegance, longevity, and refined living often come to mind. But behind the crowns and palaces, royal families have long understood an important truth: **health is the greatest form of wealth**. Today, “royal health” is not about privilege—it’s about adopting timeless habits that promote physical vitality, mental balance, and graceful aging.
