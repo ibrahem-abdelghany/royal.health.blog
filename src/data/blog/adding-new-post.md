@@ -1,5 +1,7 @@
 ---
 author: Dr. Ibrahem Abdelghany
+pubDatetime: 2026-01-02
+modDatetime: 2026-01-02
 title: Royal Health
 slug: Royal Health
 featured: true
