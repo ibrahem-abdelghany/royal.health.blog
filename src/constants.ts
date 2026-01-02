@@ -17,12 +17,12 @@ interface Social {
 }
 
 export const SOCIALS: Social[] = [
-  {
+  /*{
     name: "GitHub",
     href: "",
     linkTitle: `${SITE.title} on GitHub`,
     icon: IconGitHub,
-  },
+  },*/
   {
     name: "X",
     href: "",
