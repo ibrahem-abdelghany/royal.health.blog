@@ -21,6 +21,15 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 ---
 
 <Layout>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DMDK3YY0R6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DMDK3YY0R6');
+</script>
   <Header />
   <main id="main-content" data-layout="index">
     <section id="hero" class="pt-8 pb-6">
