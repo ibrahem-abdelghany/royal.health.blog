@@ -1,9 +1,9 @@
 ---
 author: Dr. Ibrahem Abdelghany
-pubDatetime: 2026-01-10
-modDatetime: 2026-01-10
+pubDatetime: 2026-01-09
+modDatetime: 2026-01-09
 title: "Royal Housekeeping: The Science of Clean Living, Order, and Healthy Homes"
-ogImage: Royal Housekeeping Explained | Clean Homes, Better Health & Science
+ogImage: https://i.pinimg.com/originals/a5/b4/fc/a5b4fce45da3e30156ab8567110f2778.jpg
 slug: Royal-Housekeeping
 featured: false
 draft: false
