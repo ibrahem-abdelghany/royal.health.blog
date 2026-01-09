@@ -144,6 +144,8 @@ Ginger’s antioxidant and anti-inflammatory effects are supported by research s
 
 📹 _Watch this video for more:_
 
+[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/LXTjZEN5DPY?si=oB1ul05hSozkX9ZD](https://www.youtube.com/embed/LXTjZEN5DPY?si=oB1ul05hSozkX9ZD)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Herbs and Spices for Better Health: What to Know](https://www.youtube.com/watch?v=LXTjZEN5DPY&utm_source=chatgpt.com)
