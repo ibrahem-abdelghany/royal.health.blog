@@ -17,11 +17,11 @@ interface Social {
 }
 
 export const SOCIALS: Social[] = [
-  /*{
-    name: "GitHub",
-    href: "",
+  {
+    name: "Facebook",
+    href: "https://www.facebook.com/profile.php?id=61585939183754",
     linkTitle: `${SITE.title} on GitHub`,
-    icon: IconGitHub,
+    icon: IconFacebook,
   },
   {
     name: "X",
@@ -34,7 +34,7 @@ export const SOCIALS: Social[] = [
     href: "/",
     linkTitle: `${SITE.title} on LinkedIn`,
     icon: IconLinkedin,
-  },*/
+  },
   {
     name: "Mail",
     href: "mailto:royal.health@abdelghany.com",
