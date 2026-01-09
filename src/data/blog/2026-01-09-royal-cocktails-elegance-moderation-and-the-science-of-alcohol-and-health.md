@@ -1,4 +1,6 @@
 ---
+pubDatetime: 2026-01-09
+modDatetime: 2026-01-09
 title: "Royal Cocktails: Elegance, Moderation, and the Science of Alcohol & Health"
 ogImage: Royal Cocktails Explained | Health, Moderation & Scientific Evidence
 slug: Royal-Cocktails
@@ -123,7 +125,6 @@ Royal living is about **integration**, not isolation. For those who choose to dr
 
 *   Drinking with meals slows alcohol absorption and reduces blood alcohol peaks (_Journal of Studies on Alcohol and Drugs_).  
     🔗 [https://www.jsad.com/doi/10.15288/jsad.2004.65.286](https://www.jsad.com/doi/10.15288/jsad.2004.65.286)
-    
 
 * * *
 
