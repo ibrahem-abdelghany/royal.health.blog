@@ -17,7 +17,7 @@ description: Discover the most powerful royal herbs and their scientifically
 
 ## 🌿 Introduction: What Are Royal Herbs?
 
-Throughout history, leaders, healers, and royal courts treasured herbs not just for flavor but for **health, vitality, and longevity**. These “royal herbs” are naturally rich in **bioactive compounds** such as antioxidants, polyphenols, and anti-inflammatory molecules shown to support health in modern research. ([Organic Facts](https://www.organicfacts.net/health-benefits/herbs-and-spices/health-benefits-of-herbs.html?utm_source=chatgpt.com))
+Throughout history, leaders, healers, and royal courts treasured herbs not just for flavor but for **health, vitality, and longevity**. These “royal herbs” are naturally rich in **bioactive compounds** such as antioxidants, polyphenols, and anti-inflammatory molecules shown to support health in modern research. ([Organic Facts](https://www.organicfacts.net/health-benefits/herbs-and-spices/health-benefits-of-herbs.html?))
 
 * * *
 
@@ -40,7 +40,7 @@ Herbs are more than seasonings—**they are functional foods** with multiple bio
 *   **Digestive support and metabolic effects**
     
 
-Many of these properties have been confirmed in laboratory and clinical studies. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/30651162/?utm_source=chatgpt.com))
+Many of these properties have been confirmed in laboratory and clinical studies. ([PubMed](https://pubmed.ncbi.nlm.nih.gov/30651162/?))
 
 * * *
 
@@ -57,12 +57,11 @@ Many of these properties have been confirmed in laboratory and clinical studies.
 
 ### Scientific Support
 
-Turmeric’s bioactive curcumin has been studied for its potential to reduce inflammation and protect against oxidative stress—factors behind arthritis, heart disease, and aging. ([Healthline](https://www.healthline.com/nutrition/10-healthy-herbs-and-spices?utm_source=chatgpt.com))
+Turmeric’s bioactive curcumin has been studied for its potential to reduce inflammation and protect against oxidative stress—factors behind arthritis, heart disease, and aging. ([Healthline](https://www.healthline.com/nutrition/10-healthy-herbs-and-spices?))
 
 📹 _Learn more about turmeric’s science:_
 
-
-[Using Herbs and Spices to Improve Your Health (Herbs & Spices Benefits)](https://www.youtube.com/watch?v=0MDYXjW_794&utm_source=chatgpt.com)
+[![Using Herbs and Spices to Improve Your Health (Herbs & Spices Benefits)](https://img.youtube.com/vi/0MDYXjW_794/0.jpg)](https://www.youtube.com/watch?v=0MDYXjW_794)
 
 * * *
 
@@ -77,7 +76,7 @@ Turmeric’s bioactive curcumin has been studied for its potential to reduce inf
 
 ### Scientific Perspective
 
-Some research suggests compounds in holy basil may help strengthen antioxidant defenses and support cardiovascular health. ([Healthline](https://www.healthline.com/nutrition/10-healthy-herbs-and-spices?utm_source=chatgpt.com))
+Some research suggests compounds in holy basil may help strengthen antioxidant defenses and support cardiovascular health. ([Healthline](https://www.healthline.com/nutrition/10-healthy-herbs-and-spices?))
 
 * * *
 
@@ -94,7 +93,7 @@ Some research suggests compounds in holy basil may help strengthen antioxidant d
 
 ### Evidence-Based Insight
 
-Rosemary’s antioxidants help neutralize free radicals that contribute to aging and chronic disease processes. ([Healthline](https://www.healthline.com/nutrition/10-healthy-herbs-and-spices?utm_source=chatgpt.com))
+Rosemary’s antioxidants help neutralize free radicals that contribute to aging and chronic disease processes. ([Healthline](https://www.healthline.com/nutrition/10-healthy-herbs-and-spices?))
 
 * * *
 
@@ -109,7 +108,7 @@ Rosemary’s antioxidants help neutralize free radicals that contribute to aging
 
 ### Scientific Evidence
 
-Studies show garlic intake may produce favorable effects on blood pressure and some cholesterol measures. ([Nutritional Weight and Wellness](https://www.weightandwellness.com/resources/podcasts/healthy-herbs-spices?utm_source=chatgpt.com))
+Studies show garlic intake may produce favorable effects on blood pressure and some cholesterol measures. ([Nutritional Weight and Wellness](https://www.weightandwellness.com/resources/podcasts/healthy-herbs-spices?))
 
 * * *
 
@@ -124,7 +123,7 @@ Studies show garlic intake may produce favorable effects on blood pressure and s
 
 ### Research Notes
 
-Herbs like basil and parsley deliver bioactive compounds supporting cellular health and immune function. ([The Woman Kind Prcatice |](https://www.thewomankindpractice.co.uk/health-benefits-of-herbs/?utm_source=chatgpt.com))
+Herbs like basil and parsley deliver bioactive compounds supporting cellular health and immune function. ([The Woman Kind Prcatice |](https://www.thewomankindpractice.co.uk/health-benefits-of-herbs/?))
 
 * * *
 
@@ -139,14 +138,11 @@ Herbs like basil and parsley deliver bioactive compounds supporting cellular hea
 
 ### Scientific Evidence
 
-Ginger’s antioxidant and anti-inflammatory effects are supported by research showing benefits for digestion and general inflammatory markers. ([Medical News Today](https://www.medicalnewstoday.com/articles/healthy-herbs-and-spices?utm_source=chatgpt.com))
+Ginger’s antioxidant and anti-inflammatory effects are supported by research showing benefits for digestion and general inflammatory markers. ([Medical News Today](https://www.medicalnewstoday.com/articles/healthy-herbs-and-spices?))
 
 📹 _Watch this video for more:_
 
-[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
-
-
-[Herbs and Spices for Better Health: What to Know](https://www.youtube.com/watch?v=LXTjZEN5DPY&utm_source=chatgpt.com)
+[![Herbs and Spices for Better Health: What to Know](https://img.youtube.com/vi/LXTjZEN5DPY/0.jpg)](https://www.youtube.com/watch?v=LXTjZEN5DPY)
 
 * * *
 
@@ -165,7 +161,7 @@ Here are simple, science-driven ways to add these herbs into your routine:
 *   **Parsley as garnish:** Boosts nutrient intake without calories
     
 
-Herbs are most effective when used _consistently_ as part of a balanced diet. ([Better Health Channel](https://www.betterhealth.vic.gov.au/health/healthyliving/herbs?utm_source=chatgpt.com))
+Herbs are most effective when used _consistently_ as part of a balanced diet. ([Better Health Channel](https://www.betterhealth.vic.gov.au/health/healthyliving/herbs?))
 
 * * *
 
