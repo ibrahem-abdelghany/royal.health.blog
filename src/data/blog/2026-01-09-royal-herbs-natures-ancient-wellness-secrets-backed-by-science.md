@@ -61,7 +61,6 @@ Turmeric’s bioactive curcumin has been studied for its potential to reduce inf
 
 📹 _Learn more about turmeric’s science:_
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/0MDYXjW\_794?si=2YHPwD-WpSAwGFMZ](https://www.youtube.com/embed/0MDYXjW_794?si=2YHPwD-WpSAwGFMZ)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Using Herbs and Spices to Improve Your Health (Herbs & Spices Benefits)](https://www.youtube.com/watch?v=0MDYXjW_794&utm_source=chatgpt.com)
 
@@ -146,7 +145,6 @@ Ginger’s antioxidant and anti-inflammatory effects are supported by research s
 
 [![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/LXTjZEN5DPY?si=oB1ul05hSozkX9ZD](https://www.youtube.com/embed/LXTjZEN5DPY?si=oB1ul05hSozkX9ZD)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Herbs and Spices for Better Health: What to Know](https://www.youtube.com/watch?v=LXTjZEN5DPY&utm_source=chatgpt.com)
 
