@@ -2,6 +2,7 @@
 pubDatetime: 2026-01-11
 modDatetime: 2026-01-11
 title: "Infographic : Royal Jelly health benefits"
+ogImage: https://royal.health/infographics/royal-jelly-infographic.png
 slug: Infographic-Royal-Jelly-health-benefits
 featured: false
 draft: false
